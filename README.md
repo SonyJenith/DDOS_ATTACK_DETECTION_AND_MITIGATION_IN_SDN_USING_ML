@@ -45,7 +45,6 @@ This project implements a DDoS attack detection and mitigation system in Softwar
 ## Implementation
 
 ### File Structure
-    ```bash
     DDOS_ATTACK-main/
     │
     ├── README.md
