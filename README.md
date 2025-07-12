@@ -45,14 +45,15 @@ This project implements a DDoS attack detection and mitigation system in Softwar
 ## Implementation
 
 ### File Structure
-DDOS_ATTACK-main/
-│
-├── README.md
-└── src/
-├── mininet/ # Traffic generation scripts
-├── Mitigation-KNN/ # Mitigation implementation
-├── ml-models/ # Machine learning models
-└── SDN-Controller/ # Ryu controller components
+    ```bash
+    DDOS_ATTACK-main/
+    │
+    ├── README.md
+    └── src/
+    ├── mininet/ # Traffic generation scripts
+    ├── Mitigation-KNN/ # Mitigation implementation
+    ├── ml-models/ # Machine learning models
+    └── SDN-Controller/ # Ryu controller components
 
 
 ### Module Breakdown
