@@ -24,7 +24,8 @@ This project implements a DDoS attack detection and mitigation system in Softwar
 4. **Mitigation**: Automated response module in Ryu controller
 
 ## Architecture
-![System Architecture](file:///C:/Users/Hari/Pictures/Screenshots/Screenshot%202025-07-12%20085836.png)
+![System Architecture](<img width="681" height="736" alt="Screenshot 2025-07-12 085836" src="https://github.com/user-attachments/assets/76e89279-91fd-4a75-bcc4-3adabb48576d" />
+)
 
 ### SDN Layers:
 1. **Application Layer**: Network management applications
